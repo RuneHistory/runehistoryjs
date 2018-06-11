@@ -1,0 +1,29 @@
+{
+  "name": "runehistoryjs",
+  "version": "0.0.1",
+  "description": "JavaScript API client for RuneHistory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuneHistory/runehistoryjs.git"
+  },
+  "keywords": [
+    "rune",
+    "history",
+    "runehistory",
+    "api"
+  ],
+  "author": "Jim Wright <jmwri93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RuneHistory/runehistoryjs/issues"
+  },
+  "homepage": "https://github.com/RuneHistory/runehistoryjs#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
