@@ -1,6 +1,6 @@
 {
   "name": "runehistoryjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JavaScript API client for RuneHistory",
   "main": "index.js",
   "scripts": {
